@@ -1,5 +1,9 @@
 # Star Rating Component using React
 
+You can define the total stars number to be used in rating, 
+
+### <StarRating style={{ backgroundColor: "lightgreen"}} totalStars={10} />  
+
 In the project directory, you can run:
 
 ### `yarn start`
